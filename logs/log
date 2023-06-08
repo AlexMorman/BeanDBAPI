@@ -1,0 +1,16 @@
+Jun 08, 2023 5:54:33 PM ServerControllers.Application main
+INFO: Starting server
+Jun 08, 2023 5:54:34 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+Jun 08, 2023 5:54:34 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+Jun 08, 2023 5:54:34 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.65]
+Jun 08, 2023 5:54:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+Jun 08, 2023 5:54:35 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+Jun 08, 2023 5:54:35 PM ServerControllers.Application main
+INFO: Started server on port: 8080
+Jun 08, 2023 5:54:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
